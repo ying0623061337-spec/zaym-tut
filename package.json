@@ -1,0 +1,7 @@
+{
+  "name": "zaym-tut",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve -s . -l $PORT"
+  }
+}
